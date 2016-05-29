@@ -21,8 +21,6 @@
 
 -(void)createMoreView
 {
-    
-    
     MenuArray  = [NSMutableArray arrayWithObjects:
                   [MoreModel creatModel:@"日历" imageName:@"workCalendar" isEnable:YES],
                   [MoreModel creatModel:@"GPS" imageName:@"signal" isEnable:NO],
