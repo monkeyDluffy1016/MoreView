@@ -34,7 +34,7 @@
 		04092F681CFB169D005DC1EF /* workCalendar@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04092F561CFB169D005DC1EF /* workCalendar@3x.png */; };
 		04092F6B1CFB1A18005DC1EF /* MoreMenbutton.m in Sources */ = {isa = PBXBuildFile; fileRef = 04092F6A1CFB1A18005DC1EF /* MoreMenbutton.m */; };
 		04092F6E1CFB23D4005DC1EF /* 7A33E4FC-D15F-4FA2-99D4-371FA7C8DEAA.png in Resources */ = {isa = PBXBuildFile; fileRef = 04092F6D1CFB23D4005DC1EF /* 7A33E4FC-D15F-4FA2-99D4-371FA7C8DEAA.png */; };
-		04092F701CFB23DD005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png in Resources */ = {isa = PBXBuildFile; fileRef = 04092F6F1CFB23DC005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png */; };
+		04092F721CFB2498005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png in Resources */ = {isa = PBXBuildFile; fileRef = 04092F711CFB2498005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,7 +71,7 @@
 		04092F691CFB1A18005DC1EF /* MoreMenbutton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoreMenbutton.h; sourceTree = "<group>"; };
 		04092F6A1CFB1A18005DC1EF /* MoreMenbutton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoreMenbutton.m; sourceTree = "<group>"; };
 		04092F6D1CFB23D4005DC1EF /* 7A33E4FC-D15F-4FA2-99D4-371FA7C8DEAA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "7A33E4FC-D15F-4FA2-99D4-371FA7C8DEAA.png"; sourceTree = "<group>"; };
-		04092F6F1CFB23DC005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ECAC164F-4649-47F7-8BA4-43EC87239F9A.png"; path = "../../../ECAC164F-4649-47F7-8BA4-43EC87239F9A.png"; sourceTree = "<group>"; };
+		04092F711CFB2498005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ECAC164F-4649-47F7-8BA4-43EC87239F9A.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,7 +167,7 @@
 		04092F6C1CFB23D4005DC1EF /* Preview */ = {
 			isa = PBXGroup;
 			children = (
-				04092F6F1CFB23DC005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png */,
+				04092F711CFB2498005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png */,
 				04092F6D1CFB23D4005DC1EF /* 7A33E4FC-D15F-4FA2-99D4-371FA7C8DEAA.png */,
 			);
 			path = Preview;
@@ -243,7 +243,7 @@
 				04092F671CFB169D005DC1EF /* workCalendar@2x.png in Resources */,
 				04092F661CFB169D005DC1EF /* signalunselec@3x.png in Resources */,
 				04092F631CFB169D005DC1EF /* signal@2x.png in Resources */,
-				04092F701CFB23DD005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png in Resources */,
+				04092F721CFB2498005DC1EF /* ECAC164F-4649-47F7-8BA4-43EC87239F9A.png in Resources */,
 				04092F571CFB169D005DC1EF /* blueSig@2x.png in Resources */,
 				04092F5F1CFB169D005DC1EF /* QRCode@2x.png in Resources */,
 				04092F601CFB169D005DC1EF /* QRCode@3x.png in Resources */,
